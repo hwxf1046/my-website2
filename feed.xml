@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>天狼国际传媒咨询</title>
-    <link href="https://github.com/hwxf1046/my-website2/feed.xml" rel="self" />
-    <link href="https://github.com/hwxf1046/my-website2" />
-    <updated>2026-03-22T12:31:13+08:00</updated>
+    <link href="https://hwxf1046.github.io/my-website2/feed.xml" rel="self" />
+    <link href="https://hwxf1046.github.io/my-website2" />
+    <updated>2026-03-22T13:10:40+08:00</updated>
     <author>
         <name>天狼国际</name>
     </author>
-    <id>https://github.com/hwxf1046/my-website2</id>
+    <id>https://hwxf1046.github.io/my-website2</id>
 
     <entry>
         <title>天狼国际传媒咨询</title>
         <author>
             <name>天狼国际</name>
         </author>
-        <link href="https://github.com/hwxf1046/my-website2/tian-lang-guo-ji-chuan-mei-zi-xun.html"/>
-        <id>https://github.com/hwxf1046/my-website2/tian-lang-guo-ji-chuan-mei-zi-xun.html</id>
+        <link href="https://hwxf1046.github.io/my-website2/tian-lang-guo-ji-chuan-mei-zi-xun.html"/>
+        <id>https://hwxf1046.github.io/my-website2/tian-lang-guo-ji-chuan-mei-zi-xun.html</id>
 
         <updated>2026-03-22T12:31:13+08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    专业服务15年
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>专业服务15年</p>
+            ]]>
+        </content>
     </entry>
 </feed>
