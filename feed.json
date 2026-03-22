@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "天狼国际传媒咨询",
+    "description": "",
+    "home_page_url": "https://github.com/hwxf1046/my-website2",
+    "feed_url": "https://github.com/hwxf1046/my-website2/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "天狼国际"
+    },
+    "items": [
+        {
+            "id": "https://github.com/hwxf1046/my-website2/tian-lang-guo-ji-chuan-mei-zi-xun.html",
+            "url": "https://github.com/hwxf1046/my-website2/tian-lang-guo-ji-chuan-mei-zi-xun.html",
+            "title": "天狼国际传媒咨询",
+            "author": {
+                "name": "天狼国际"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-22T12:31:13+08:00",
+            "date_modified": "2026-03-22T12:31:13+08:00"
+        }
+    ]
+}
